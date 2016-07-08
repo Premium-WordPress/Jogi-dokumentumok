@@ -1,5 +1,5 @@
-Általános Szerződési Feltételek
-VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2016.06.24.
+# Általános Szerződési Feltételek
+**VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2016.06.24.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -9,21 +9,21 @@ Előfizető a Megrendelés leadásával elismeri, hogy betöltötte 18. e
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Kaposvári Városi Bíróság illetékes.
 
-Szolgáltató
+## Szolgáltató
 
-Álomvilág Kft.
-Székhely: 7400 Kaposvár, Kinizsi ltp. 38. 1/4
-Adószám: 13195869-2-14
-Cégjegyzékszám: 14-09-305731 – Bejegyezve a Somogy Megyei Bíróság mint Cégbíróság által
+- **Álomvilág Kft.**
+- **Székhely:** 7400 Kaposvár, Kinizsi ltp. 38. 1/4
+- **Adószám:** 13195869-2-14
+- **Cégjegyzékszám:** 14-09-305731 – Bejegyezve a Somogy Megyei Bíróság mint Cégbíróság által
 
-Kapcsolattartó
+## Kapcsolattartó
 
-Ambrus Péter – teljeskörű ügyintézés
-Telefon: +36 70 209 3432
-Email: ugyfelszolgalat@premiumwp.hu
-Skype: surbma
+- **Ambrus Péter** – teljeskörű ügyintézés
+- **Telefon:** +36 70 209 3432
+- **Email:** ugyfelszolgalat@premiumwp.hu
+- **Skype:** surbma
 
-Honlapszolgáltatás
+## Honlapszolgáltatás
 
 A Prémium WordPress honlapszolgáltatás a következő alapszolgáltatásokat tartalmazza minden esetben:
 
@@ -49,7 +49,7 @@ A különböző Csomagokban további extra Szolgáltatások is vannak, am
 
 A Szolgáltatások változtatásának jogát Szolgáltató fenntartja a Szolgáltatási- és árgarancia keretein belül.
 
-Használat és felhasználási jog
+## Használat és felhasználási jog
 
 A Szolgáltatáshoz kapcsolódó minden szoftver használati jog tulajdonosa a Szolgáltató. Előfizető a Szolgáltatás bérlésével a kifizetett időtartamra teljeskörű használati jogot kap minden szoftverre, amely része a Szolgáltatásnak.
 
@@ -59,13 +59,13 @@ Előfizető a honlaphoz tartozó adminisztrációs felülethez kap hozzá
 
 A honlapon az Előfizető által feltöltött és/vagy közzétett tartalomra Szolgáltató nem tart igényt és nem vállal felelősséget. Előfizető által feltöltött minden tartalom jogosultja az Előfizető, azokon Szolgáltató semmilyen jogot nem szerez. Előfizető bármikor jogosult a tartalmak exportálására, amit a honlap admin felületén tud elvégezni a WordPress alaprendszer által biztosított exportálási funkció segítségével.
 
-Fair használat
+## Fair használat
 
 Szolgáltató egyes csomagokhoz korlátlan tárhely használatot engedélyez a “fair használat” elve mellett. A “fair használat” előfeltételezi, hogy Előfizető csak a weboldalához feltétlen szükséges méretű és mennyiségű média fájlokat tölt fel a tárhelyre. Szolgáltató csak a meghatározott kiterjesztésű és maximális méretű fájlok feltöltését engedélyezi.
 
 Szolgáltató fenntartja a jogot, hogy a “fair használatot” egyoldalúan bírálja el és korlátozza minden egyes weboldal esetén.
 
-Domain DNS kezelés
+## Domain DNS kezelés
 
 Szolgáltató vállalja a szolgáltatáshoz kapcsolt domainek DNS kezelését, melyet az előfizetési díj tartalmaz. Előfizető az Előfizetés időtartamára átadja a domainhez tartozó DNS kezelés jogosultságát Szolgáltatónak.
 
@@ -75,7 +75,7 @@ Szolgáltató nem tart igényt a domain tulajdonjogára, az minden esetben E
 
 Az Előfizetés bárminemű megszűnése esetén Előfizető köteles visszavenni a domain DNS kezelését. Szolgáltató ezután nem vállalja a domain DNS kezelését. Az ilyen jellegű munkák után Szolgáltató az aktuális óradíj alapján számláz Előfizetőnek.
 
-Karbantartás és rendelkezésre állás
+## Karbantartás és rendelkezésre állás
 
 A Szolgáltató éves garantált rendelkezésre állása: 99%
 
@@ -83,7 +83,7 @@ Szolgáltató jogosult karbantartás miatt szüneteltetni a szolgáltatás
 
 Felek megállapodnak, hogy amennyiben a karbantartási idő az adott hónapban meghaladja a 6 órát, Előfizető jogosult a szerződést azonnali hatállyal felmondani. Előfizető jelen pont szerinti felmondása esetén Előfizető a felmondás napjáig esedékes, arányos szolgáltatói díjat köteles megfizetni a Szolgáltatónak. Előre fizetés esetén Szolgáltató a felmondás napjától számított 8 napon belül köteles visszafizetni az Előfizető által megfizetett, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat.
 
-Tartalom és tevékenység korlátozása
+## Tartalom és tevékenység korlátozása
 
 Szolgáltató fenntartja magának a jogot, hogy a Szolgáltatást - az Előfizető előzetes értesítését követően - korlátozza, amennyiben Előfizető nem rendeltetésszerűen használja Szolgáltató által nyújtott lehetőségeket. Kiemelten ilyen eseteknek tekintjük a következőket:
 
@@ -101,11 +101,11 @@ A végleges döntés a tartalmak elbírálásával kapcsolatban csak és
 
 Szolgáltató ugyanakkor kijelenti, hogy nem képes naprakészen felügyelni Előfizető által feltöltött adatokat, valamint Előfizető elfogadja, hogy az általa feltöltött illegális adattárolásokból és az általa indított kéretlen levelek küldéséből felmerülő vitákban teljes felelősséget vállal és Szolgáltatót nem terheli felelősség a fent említett kérdésekben.
 
-Adatforgalom korlátozása
+## Adatforgalom korlátozása
 
 Előfizető tudomásul veszi, hogy Szolgáltató korlátozhatja Előfizető Szolgáltatását, amennyiben Előfizetőhöz tartozó honlap(ok) adatforgalma veszélyeztetheti a szerveren tárolt többi előfizetőnek nyújtott szolgáltatás minőségét. A korlátozásról Szolgáltatónak kötelessége írásban előzetesen figyelmeztetni Előfizetőt. Abban az esetben, ha Szolgáltató és Előfizető között nem születik megállapodás, Szolgáltató minden további figyelmeztetés nélkül egyoldalúan felmondhatja a Szolgáltatást.
 
-Forgalom számolása
+## Forgalom számolása
 
 Szolgáltató a honlapokat a Google Analytics által biztosított analitikai szoftverrel méri. A mérési módszer egy harmadik szolgáltató által történik, melynek helyességéért Szolgáltató nem vállal felelősséget. A mérési módszer egyége az Egyedi oldalmegtekintések.
 
@@ -113,11 +113,11 @@ Egyedi oldalmektekintések: Az Egyedi oldalmegtekintések mutató azoknak a m
 
 A Szolgáltató által elhelyezett mérőkódhoz tartozó adminisztrációs felülethez Szolgáltató nem ad hozzáférést az Előfizetőnek. Szolgáltató lehetőséget ad Előfizetőnek, hogy a saját Google Analytics mérőkódját elhelyezze a weboldalán, amivel ellenőrizni tudja a Szolgáltató által közölt mérés helyességét.
 
-Számlázás
+## Számlázás
 
 Szolgáltató a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki.
 
-Fizetési feltételek
+## Fizetési feltételek
 
 A Megrendelés leadásával Előfizető végérvényesen elfogadja az Általános Szerződési Feltételeket.
 
@@ -137,7 +137,7 @@ A korlátozás időtartamára Előfizetőt díjjóváírás nem illet
 
 Amennyiben Előfizető számlatartozása meghaladja az utolsónak kiállított díjbekérő vagy számla fizetési határidejét, úgy Szolgáltató fenntartja magának a jogot, hogy a szolgáltatások korlátozásán túl akár a számla kiegyenlítéséig - az Előfizető előzetes értesítését követően - felfüggessze szolgáltatásait Előfizetővel szemben.
 
-Szolgáltatási- és árgarancia
+## Szolgáltatási- és árgarancia
 
 Szolgáltató garantálja, hogy a Megrendelés leadásának napján elérhető hivatalos árak és vállalt Szolgáltatások a Megrendelés leadásának napjától számított egy évig aktuálisak lesznek a Megrendelőnek.
 
@@ -145,7 +145,7 @@ Az alap Szolgáltatások változtatásáról és a Szolgáltatáshoz ka
 
 A Szolgáltatáshoz kapcsolódó árváltozások minden esetben a bejelentést követő 30 napos időszak után esedékes Szolgáltatásokra vonatkoznak.
 
-Szerződés felmondása és visszafizetés
+## Szerződés felmondása és visszafizetés
 
 Abban az esetben, ha Előfizető a szerződést felmondja, köteles az aktuális időszak díját a szerződésben foglaltak szerint egy összegben a Szolgáltató részére kifizetni. Amennyiben az aktuális időszak már kiegyenlítésre került és az Előfizető a kifizetett időtartam lejárta előtt kívánja felmondani a szerződést, Szolgáltató a fennmaradt napok után nem köteles elszámolni. A kifizetett időszak végéig Előfizető szabadon használhatja a Szolgáltatást. A kifizetett időszak lejárta után a Szolgáltatás megszűnik.
 
@@ -157,13 +157,13 @@ Amennyiben Szolgáltató a Szerződésben vállalt minőségi kritérium
 
 A minőségi kritériumok kizárólag Szolgáltató felügyelete alatt lévő szolgáltatásokra vonatkoznak.
 
-Védjegyek és szerzői jogok
+## Védjegyek és szerzői jogok
 
 Előfizető garantálja, hogy megvan minden joga az oldalán használt bármely védjegy vagy tartalom használatához.
 
 Előfizető garantálja, hogy a közzétett tartalom nem sérti harmadik fél szerzői jogát vagy szabadalmát.
 
-A szerződés megváltoztatása és az erre vonatkozó jogi hatáskör
+## A szerződés megváltoztatása és az erre vonatkozó jogi hatáskör
 
 Az itt közzétett szerződési feltételek változtatási jogát fenntartjuk. A megváltoztatott Általános Szerződési Feltételeket Előfizető teljeskörűen elfogadja a Szolgáltatás további használatával.
 
@@ -173,6 +173,6 @@ Az Általános Szerződési Feltételek változásai új megrendelés e
 
 Előfizető jogosult a Szolgáltató értesítését követő 15 napon belül a Szolgáltatást a változtatás bevezetésének napjára felmondani. Előfizető jelen pont szerinti felmondása esetén Előfizető a felmondás napjáig esedékes, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat köteles megfizetni a Szolgáltatónak. Előre fizetés esetén Szolgáltató a felmondás napjától számított 8 napon belül köteles visszafizetni az Előfizető által megfizetett, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat.
 
-Adatkezelés és adatbiztonság
+## Adatkezelés és adatbiztonság
 
 Szolgáltató a tudomására jutott adatokat, információkat bizalmasan kezeli, s azokat – a kifejezett jogszabályi kötelezés esetét kivéve – harmadik személynek nem adja ki. Minden információt, melyet az Előfizető ad meg, a Szolgáltatással kapcsolatban használunk fel.

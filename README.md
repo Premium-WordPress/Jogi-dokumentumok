@@ -11,6 +11,24 @@ A verziószám két részből áll:
 
 ## Változtatások:
 
+**2.0**
+
+- Javítás a szerződésben nem részletezett kérdésekre vontakozóan.
+- "Szolgáltatói garancia" javítása "Szolgáltatási- és árgarancia"-ra.
+- Előfizető által feltöltött és közzétett tartalmakra vonatkozó jogkör egyértelműbb meghatározása.
+- A domain DNS kezelésének átadására vonatkozó tulajdonjogi eset tisztázása.
+- Garantált rendelkezésreállásra vonatkozó leírás kiegészítése, illetve Előfizető felmondási jogának könnyítése, amennyiben a rendelkezésreállás nem teljesül Szolgáltató oldaláról.
+- Szolgáltatás korlátozására vonatkozó értesítési kötelezettségek kibővítése Előfizető érdekében.
+- Fietési feltételek kiegészítése a Szolgáltatási díj gyakoriságának a megválasztási lehetőségével.
+- Számla és díjbekérő együttes és következetes használata a szerződésben.
+- Szolgáltatással kapcsolatos árváltozások érvényesítésére vonatkozó feltételek leírása.
+- Felmondási szándék indokolatlan esetére vonatkozó jog meghatározása Előfizető érdekében.
+- Felmondás és átadás esetén az átadásra kerülő szoftverekre vonatkozó működési garancia vállalása.
+- Díjvisszafizetés mértékének arányosítása az adott előfizetéshez, fix díj helyett.
+- ÁSZF megváltozásának értesítési felületeinek a pontosítása.
+- ÁSZF megváltozásának érvényességére vonatkozó leírás.
+- ÁSZF megváltozásának esetére vonatkozó felmondási jog kibővítése Előfizető érdekében.
+
 **1.0**
 
 - Általános Szerződési Feltételek hozzáadása.

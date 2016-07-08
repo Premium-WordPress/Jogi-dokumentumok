@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**2.2**
+
+- Verzió frissítése a szerződésben.
+
 **2.1**
 
 - Szerződés formázása.

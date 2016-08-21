@@ -1,7 +1,7 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 2.2 | UTOLSÓ FRISSÍTÉS: 2016.06.24.**
+**VERZIÓ: 3.0 | UTOLSÓ FRISSÍTÉS: 2016.08.22.**
 
-A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
+A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
 Előfizető a Megrendelés leadásával elismeri, hogy az itt leírt Általános Szerződési Feltételeket elolvasta, megértette és annak minden pontját elfogadja és betartja.
 

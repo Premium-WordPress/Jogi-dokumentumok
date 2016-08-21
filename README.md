@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**3.0**
+
+- Az eddig a megrendelés leadásánál szereplő kötelező tájékoztatás - az elektronikus úton és a távollevők között megkötött szerződésről - átkerült ide, az Általános Szerződési Feltételekbe.
+
 **2.2**
 
 - Verzió frissítése a szerződésben.

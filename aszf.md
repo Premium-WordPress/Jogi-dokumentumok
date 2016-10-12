@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 3.0 | UTOLSÓ FRISSÍTÉS: 2016.08.22.**
+**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2016.10.12.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -58,6 +58,8 @@ Előfizető minden honlap installációhoz Adminisztrátor szerepköri jog
 Előfizető a honlaphoz tartozó adminisztrációs felülethez kap hozzáférést, a szerverhez és adatbázishoz nincs semmilyen jogosultságú hozzáférése.
 
 A honlapon az Előfizető által feltöltött és/vagy közzétett tartalomra Szolgáltató nem tart igényt és nem vállal felelősséget. Előfizető által feltöltött minden tartalom jogosultja az Előfizető, azokon Szolgáltató semmilyen jogot nem szerez. Előfizető bármikor jogosult a tartalmak exportálására, amit a honlap admin felületén tud elvégezni a WordPress alaprendszer által biztosított exportálási funkció segítségével.
+
+Előfizető az általa bérelt honlapok és/vagy installációk továbbértékesítésére harmadik félnek csak az Agency, azaz az ügynökségi csomag keretén belül jogosult. Minden más esetben az előfizetőnek és a honlap üzemeltetőjének, domain tulajdonosának meg kell egyeznie. Ez alól kivételt képeznek olyan cégek, melyeknél egy személy több cégben is rendelkezik tulajdonosi joggal vagy magánszemélyként is kezel honlapot és/vagy installációt.
 
 ## Fair használat
 

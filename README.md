@@ -15,6 +15,11 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**5.0**
+
+- A számla vagy díjbekérő kiállításának a napja megváltozott 9 napról 15 napra.
+- A korlátozás időszakára vonatkozó kártérítési igény tisztázása.
+
 **4.0**
 
 - A honlapok és/vagy installációk továbbértékesítésének (harmadik félnek) a szabályozása.

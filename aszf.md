@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2016.10.12.**
+**VERZIÓ: 5.0 | UTOLSÓ FRISSÍTÉS: 2017.04.09.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -123,19 +123,19 @@ Szolgáltató a díjbekérőket és számlákat elektronikus úton ál
 
 A Megrendelés leadásával Előfizető végérvényesen elfogadja az Általános Szerződési Feltételeket.
 
-A Megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár, és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
+A Megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
 A Szolgáltatás díja egy ismétlődő (éves vagy havi) díj, amely a honlap aktiválásának a napjától kerül felszámolásra. A Szolgáltatás ismétlődő (éves vagy havi) díja a Szolgáltatáshoz kapcsolódó szoftverek használati jogát és a honlaphoz kapcsolódó tárhely és egyéb webes szolgáltatásokat tartalmazza. A domain regisztráció és fenntartás NEM része a Szolgáltatásnak, ezért a domain regisztrációjának, illetve átregisztrációjának tényleges dátumától független.
 
 Előfizető jogosult meghatározni a Szolgáltatási díj megfizetésének gyakoriságát a Szolgáltató által előre meghatározott lehetőségein belül.
 
-Szolgáltató az Előfizetés érvényességi idejének a lejárata előtt maximum 9 nappal számlát vagy díjbekérőt bocsát ki Előfizető részére a megrendelt szolgáltatásokról. Előfizető a számla vagy díjbekérő összegét a számlán vagy díjbekérőn megjelölt fizetési határidő lejártáig köteles Szolgáltató részére megfizetni.
+Szolgáltató az Előfizetés érvényességi idejének a lejárata előtt maximum 15 nappal számlát vagy díjbekérőt bocsát ki Előfizető részére a megrendelt szolgáltatásokról. Előfizető a számla vagy díjbekérő összegét a számlán vagy díjbekérőn megjelölt fizetési határidő lejártáig köteles Szolgáltató részére megfizetni.
 
 Amennyiben Előfizető a díjbekérő vagy számla összegét a díjbekérőn vagy számlán feltüntetett fizetési határidő lejártáig nem fizeti meg, késedelmi kamatot köteles fizetni. A késedelmi kamat összege a fennálló tartozás összege után a Ptk. szerint meghatározott éves késedelmi kamatlábbal a késedelem napjaira kiszámított összeg, 360 napos évet alapul véve.
 
 Amennyiben Előfizető fizetési késedelembe esik, úgy Szolgáltató előzetes felszólítás után korlátozhatja a szolgáltatások körét. Abban az esetben, ha a fizetési késedelem eléri a 30 napot, Szolgáltató - az Előfizető előzetes értesítését követően - egyoldalúan felmondhatja Előfizető szerződését.
 
-A korlátozás időtartamára Előfizetőt díjjóváírás nem illeti meg.
+A korlátozás időtartamára Előfizetőt díjjóváírás nem illeti meg és semmilyen kártérítési szándékkal nem élhet.
 
 Amennyiben Előfizető számlatartozása meghaladja az utolsónak kiállított díjbekérő vagy számla fizetési határidejét, úgy Szolgáltató fenntartja magának a jogot, hogy a szolgáltatások korlátozásán túl akár a számla kiegyenlítéséig - az Előfizető előzetes értesítését követően - felfüggessze szolgáltatásait Előfizetővel szemben.
 

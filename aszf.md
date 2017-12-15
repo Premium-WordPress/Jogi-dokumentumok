@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 5.0 | UTOLSÓ FRISSÍTÉS: 2017.04.09.**
+**VERZIÓ: 6.0 | UTOLSÓ FRISSÍTÉS: 2017.12.15.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -118,6 +118,14 @@ A Szolgáltató által elhelyezett mérőkódhoz tartozó adminisztráci
 ## Számlázás
 
 Szolgáltató a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki.
+
+## Fizetési módok
+
+Szolgáltató a weboldalán jelenleg a következő fizetési módokat biztosítja, melyek közül Előfizető szabadon választhatja ki a számára legmegfelelőbb fizetési módot:
+
+- Banki átutalás
+- Bankkártyás fizetés (Barion)
+- PayPal
 
 ## Fizetési feltételek
 

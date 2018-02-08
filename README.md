@@ -15,6 +15,11 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**8.0**
+
+- Cégadatok frissítése.
+- Karakter javítások a szövegben.
+
 **7.0**
 
 - Installációk mérési mószereinek a kibővítése és részletezése.

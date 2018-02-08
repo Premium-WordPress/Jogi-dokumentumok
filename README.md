@@ -1,6 +1,6 @@
-# Általános Szerződési Feltételek dokumentáció
+# Általános Szerződési Feltételek dokumentáció
 
-Itt található a mindenkor aktuális Általános Szerződési Feltételek és annak előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
+Itt található a mindenkor aktuális Általános Szerződési Feltételek és annak előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
 
 ## Verziószám
 
@@ -14,6 +14,10 @@ A verziószám két részből áll:
 Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítására vonatkozik, tehát a stilisztikai, megjelenésbeli és egyéb kis hibajavítások esetén nem frissül. A dátum azt az állapotot mutatja, amikor a szerződés lényegi elemei utoljára módosultak, azaz a főverzió frissülésével megegyező dátumot
 
 ## Változtatások:
+
+**8.1**
+
+- Karakter kódolás javítása a teljes szövegben.
 
 **8.0**
 
@@ -40,7 +44,7 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 **3.0**
 
-- Az eddig a megrendelés leadásánál szereplő kötelező tájékoztatás - az elektronikus úton és a távollevők között megkötött szerződésről - átkerült ide, az Általános Szerződési Feltételekbe.
+- Az eddig a megrendelés leadásánál szereplő kötelező tájékoztatás - az elektronikus úton és a távollevők között megkötött szerződésről - átkerült ide, az Általános Szerződési Feltételekbe.
 
 **2.2**
 
@@ -54,7 +58,7 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 **2.0**
 
 - Javítás a szerződésben nem részletezett kérdésekre vontakozóan.
-- "Szolgáltatói garancia" javítása "Szolgáltatási- és árgarancia"-ra.
+- "Szolgáltatói garancia" javítása "Szolgáltatási- és árgarancia"-ra.
 - Előfizető által feltöltött és közzétett tartalmakra vonatkozó jogkör egyértelműbb meghatározása.
 - A domain DNS kezelésének átadására vonatkozó tulajdonjogi eset tisztázása.
 - Garantált rendelkezésreállásra vonatkozó leírás kiegészítése, illetve Előfizető felmondási jogának könnyítése, amennyiben a rendelkezésreállás nem teljesül Szolgáltató oldaláról.
@@ -71,4 +75,4 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 **1.0**
 
-- Általános Szerződési Feltételek hozzáadása.
+- Általános Szerződési Feltételek hozzáadása.

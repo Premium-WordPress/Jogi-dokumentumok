@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 6.0 | UTOLSÓ FRISSÍTÉS: 2017.12.15.**
+**VERZIÓ: 7.0 | UTOLSÓ FRISSÍTÉS: 2018.02.08.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -109,15 +109,20 @@ Előfizető tudomásul veszi, hogy Szolgáltató korlátozhatja Előfizet
 
 ## Forgalom számolása
 
-Szolgáltató a honlapokat a Google Analytics által biztosított analitikai szoftverrel méri. A mérési módszer egy harmadik szolgáltató által történik, melynek helyességéért Szolgáltató nem vállal felelősséget. A mérési módszer egyége az Egyedi oldalmegtekintések.
+Szolgáltató a honlapok vagy installációk forgalmát az adott csomagban meghatározott módon méri. A mérési módszerek minden esetben egy harmadik szolgáltató által történnek, melynek helyességéért Szolgáltató nem vállal felelősséget.
 
-Egyedi oldalmektekintések: Az Egyedi oldalmegtekintések mutató azoknak a munkameneteknek a számát jelzi, amelyek során az adott oldalt legalább egyszer megtekintették. A rendszer minden egyes oldal-URL + oldalcím kombinációt egyedi oldalmegtekintésnek számol.
+Alkalmazott mérési módszerek:
 
-A Szolgáltató által elhelyezett mérőkódhoz tartozó adminisztrációs felülethez Szolgáltató nem ad hozzáférést az Előfizetőnek. Szolgáltató lehetőséget ad Előfizetőnek, hogy a saját Google Analytics mérőkódját elhelyezze a weboldalán, amivel ellenőrizni tudja a Szolgáltató által közölt mérés helyességét.
+- **Google Analytics:** A mérési módszer egysége az "Egyedi oldalmegtekintések" mutató. Egyedi oldalmektekintések: Az Egyedi oldalmegtekintések mutató azoknak a munkameneteknek a számát jelzi, amelyek során az adott oldalt legalább egyszer megtekintették. A rendszer minden egyes oldal-URL + oldalcím kombinációt egyedi oldalmegtekintésnek számol.
+- **WP Engine:** Az installációk látogatottságát a WP Engine szolgáltató saját mérése biztosítja, mely egy adott IP címről érkező lekérést 24 órás időtartamon belül - mely az adott nap 00:00:00 órájától a nap 23:59:59 órájáig tart - egy látogatásnak számol. A WP Engine a saját algoritmusa szerint kiszűri a botok és egyéb, ártalmas látogatások által generált forgalmat. Előfizető hozzáférést kap a WP Engine admin felületéhez, ahol folyamatosan nyomonkövetheti az installációjához tartozó forgalmat, valamint azt CSV formátumban exportálhatja.
+- **Kinsta:** Az installációk látogatottságát a Kinsta szolgáltató saját mérése biztosítja, mely egy adott IP címről érkező lekérést 24 órás időtartamon belül - mely az adott nap 00:00:00 órájától a nap 23:59:59 órájáig tart - egy látogatásnak számol. A Kinsta a saját algoritmusa szerint kiszűri a botok és egyéb, ártalmas látogatások által generált forgalmat. Előfizető hozzáférést kap a Kinsta admin felületéhez, ahol folyamatosan nyomonkövetheti az installációjához tartozó forgalmat, valamint azt CSV formátumban exportálhatja.
+- **Pressjitsu:** Az installációk ebben az esetben nem forgalom, hanem erőforrás alapon vannak elszámolva. A Pressjitsu által előre meghatározott konfigurációjú VPS szerverek biztosítják a megfelelő teljesítményt az adott installáció erőforrás igényéhez. Amennyiben az adott konfiguráció által biztosított teljesítmény nem elég, úgy a következő csomagba kell lépni.
+
+Szolgáltató a Google Analytics méréshez egy JavaScript követőkódot használ a weboldalak forráskódjában. A mérőkódhoz tartozó adminisztrációs felülethez Szolgáltató nem ad hozzáférést Előfizetőnek. Szolgáltató lehetőséget ad Előfizetőnek, hogy a saját Google Analytics mérőkódját elhelyezze a weboldalán, amivel ellenőrizni tudja a Szolgáltató által közölt mérés helyességét.
 
 ## Számlázás
 
-Szolgáltató a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki.
+Szolgáltató a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki.
 
 ## Fizetési módok
 
@@ -129,7 +134,7 @@ Szolgáltató a weboldalán jelenleg a következő fizetési módokat biztosítj
 
 ## Fizetési feltételek
 
-A Megrendelés leadásával Előfizető végérvényesen elfogadja az Általános Szerződési Feltételeket.
+A Megrendelés leadásával Előfizető végérvényesen elfogadja az Általános Szerződési Feltételeket.
 
 A Megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 

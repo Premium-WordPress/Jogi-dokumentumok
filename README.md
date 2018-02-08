@@ -15,6 +15,15 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**7.0**
+
+- Installációk mérési mószereinek a kibővítése és részletezése.
+- Kisebb stilisztikai módosítások.
+
+**6.0**
+
+- Fizetési módok hozzáadása.
+
 **5.0**
 
 - A számla vagy díjbekérő kiállításának a napja megváltozott 9 napról 15 napra.

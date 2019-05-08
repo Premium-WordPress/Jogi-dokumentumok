@@ -15,6 +15,13 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**9.0**
+
+- Szolgáltató székhely módosítása.
+- Szolgáltatások részletesebb és pontosabb meghatározása. A honlapszolgáltatás és honlap kezelés különválasztása.
+- Linkek javítása.
+- Kisebb stilisztikai javítások.
+
 **8.1**
 
 - Karakter kódolás javítása a teljes szövegben.

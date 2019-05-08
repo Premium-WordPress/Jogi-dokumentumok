@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**9.1**
+
+- PDF fájl frissítése.
+
 **9.0**
 
 - Szolgáltató székhely módosítása.

@@ -22,6 +22,10 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**10.1**
+
+- PDF fájl konvertálás elmaradásának a pótlása.
+
 **10.0**
 
 - Közvetített szolgáltatások rész hozzáadása.

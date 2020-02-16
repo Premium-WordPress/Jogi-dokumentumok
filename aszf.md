@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 10.0 | UTOLSÓ FRISSÍTÉS: 2020.02.16.**
+**VERZIÓ: 10.1 | UTOLSÓ FRISSÍTÉS: 2020.02.16.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 

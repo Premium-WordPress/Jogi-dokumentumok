@@ -11,9 +11,23 @@ A verziószám két részből áll:
 
 ## Utolsó frissítés
 
-Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítására vonatkozik, tehát a stilisztikai, megjelenésbeli és egyéb kis hibajavítások esetén nem frissül. A dátum azt az állapotot mutatja, amikor a szerződés lényegi elemei utoljára módosultak, azaz a főverzió frissülésével megegyező dátumot
+Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítására vonatkozik, tehát a stilisztikai, megjelenésbeli és egyéb kis hibajavítások esetén nem frissül. A dátum azt az állapotot mutatja, amikor a szerződés lényegi elemei utoljára módosultak, azaz a főverzió frissülésével megegyező dátumot.
+
+## Szerződés formátumok
+
+A szerződés két formátumban készül. Az eredeti és szerkeszthető formátum .md, azaz Markdown formátum, mely egy egyszerűsített szemantikus szerkesztői nyelv egyzerű szöveg formában elmentve. A másik formátum pedig az .md formátumból generált .pdf, azaz Portable Document Format formátum, mely egy platform és felbontás független, kifejezetten dokumentumok (képek, szövegek, ábrák) tárolására alkalmas fájlformátum.
+
+A Markdown és Portable Document Format konvertálásához a következő online szolgáltatást használjuk:
+https://www.markdowntopdf.com/
 
 ## Változtatások:
+
+**10.0**
+
+- Közvetített szolgáltatások rész hozzáadása.
+- Google Analytics mérés törlése.
+- Closte szolgáltató forgalom mérésének a hozzáadása.
+- Dokumentáció kibővítése a formátumok és konvertálás leírásával.
 
 **9.1**
 

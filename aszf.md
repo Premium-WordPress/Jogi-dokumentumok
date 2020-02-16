@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 9.1 | UTOLSÓ FRISSÍTÉS: 2019.05.08.**
+**VERZIÓ: 10.0 | UTOLSÓ FRISSÍTÉS: 2020.02.16.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -130,12 +130,18 @@ Szolgáltató a honlapok vagy installációk forgalmát az adott csomagban megha
 
 Alkalmazott mérési módszerek:
 
-- **Google Analytics:** A mérési módszer egysége az "Egyedi oldalmegtekintések" mutató. Egyedi oldalmektekintések: Az Egyedi oldalmegtekintések mutató azoknak a munkameneteknek a számát jelzi, amelyek során az adott oldalt legalább egyszer megtekintették. A rendszer minden egyes oldal-URL + oldalcím kombinációt egyedi oldalmegtekintésnek számol.
 - **Kinsta:** Az installációk látogatottságát a Kinsta szolgáltató saját mérése biztosítja, mely egy adott IP címről érkező lekérést 24 órás időtartamon belül - mely az adott nap 00:00:00 órájától a nap 23:59:59 órájáig tart - egy látogatásnak számol. A Kinsta a saját algoritmusa szerint kiszűri a botok és egyéb, ártalmas látogatások által generált forgalmat. Előfizető hozzáférést kap a Kinsta admin felületéhez, ahol folyamatosan nyomonkövetheti az installációjához tartozó forgalmat, valamint azt CSV formátumban exportálhatja.
 - **Pressjitsu:** Az installációk ebben az esetben nem forgalom, hanem erőforrás alapon vannak elszámolva. A Pressjitsu által előre meghatározott konfigurációjú VPS szerverek biztosítják a megfelelő teljesítményt az adott installáció erőforrás igényéhez. Amennyiben az adott konfiguráció által biztosított teljesítmény nem elég, úgy a következő csomagba kell lépni.
 - **WP Engine:** Az installációk látogatottságát a WP Engine szolgáltató saját mérése biztosítja, mely egy adott IP címről érkező lekérést 24 órás időtartamon belül - mely az adott nap 00:00:00 órájától a nap 23:59:59 órájáig tart - egy látogatásnak számol. A WP Engine a saját algoritmusa szerint kiszűri a botok és egyéb, ártalmas látogatások által generált forgalmat. Előfizető hozzáférést kap a WP Engine admin felületéhez, ahol folyamatosan nyomonkövetheti az installációjához tartozó forgalmat, valamint azt CSV formátumban exportálhatja.
+- **Closte:** Az egyes installációk a felhasznált erőforrások alapján vannak elszámolva. A szerver minden egyes erőforrás alapja felszámolásra kerül a szolgáltató által meghatározott egységáron. Részletes elemzést hónap végén ad ki a szolgáltató.
 
-Szolgáltató a Google Analytics méréshez egy JavaScript követőkódot használ a weboldalak forráskódjában. A mérőkódhoz tartozó adminisztrációs felülethez Szolgáltató nem ad hozzáférést Előfizetőnek. Szolgáltató lehetőséget ad Előfizetőnek, hogy a saját Google Analytics mérőkódját elhelyezze a weboldalán, amivel ellenőrizni tudja a Szolgáltató által közölt mérés helyességét.
+## Közvetített szolgáltatások
+
+Szolgáltató bizonyos esetekben az Előfizető részére saját nevében vesz igénybe bizonyos szolgáltatást vagy szolgáltatásokat és azt közvetített szolgáltatásként továbbszámlázza. Ezen szolgáltatásokat Szolgáltató változatlan formában, de nem feltétlen ugyanazon az áron nyújtja Előfizetőnek.
+
+Előfizető minden közvetített szolgáltatásra külön megbízást ad Szolgáltatónak vagy Szolgáltató ajánlására elfogadja az előre kiválasztott közvetített szolgáltatást. Szolgáltató kifejezetten Előfizető kérésére az ő javában jár el a harmadik fél szolgáltatásának megrendelésében, ügyintézésében.
+
+Előfizető tudomásulveszi, hogy a közvetített szolgáltatások tekintetében minden ilyen formában igénybevett szolgáltatás esetén az esetleges problémás helyzetek során, illetve a szolgáltatással kapcsolatban felmerült panaszát, kárigényét Szolgáltató - azaz a harmadik fél szolgáltatásának közvetítője - felé nem érvényesíti, nem követeli. Tehát Szolgáltató a közvetített szolgáltatások tekintetében közvetett felelősséget nem vállal Előfizető felé. Szolgáltató vállalja a teljeskörű ügyintézést és ilyen esetben Előfizető nevében és érdekképviseletében jár el a harmadik szolgáltatóval szemben. Szükség esetén Szolgáltató összekapcsolja Előfizetőt a harmadik féllel.
 
 ## Számlázás
 
@@ -207,4 +213,4 @@ Előfizető jogosult a Szolgáltató értesítését követő 15 napon belül a 
 
 ## Adatkezelés és adatbiztonság
 
-Szolgáltató a tudomására jutott adatokat, információkat bizalmasan kezeli, s azokat – a kifejezett jogszabályi kötelezés esetét kivéve – harmadik személynek nem adja ki. Minden információt, melyet az Előfizető ad meg, a Szolgáltatással kapcsolatban használunk fel.
+Szolgáltató a tudomására jutott adatokat, információkat bizalmasan kezeli, s azokat – a kifejezett jogszabályi kötelezés esetét kivéve – harmadik személynek nem adja ki. Minden információt, melyet Előfizető ad meg, a Szolgáltatással kapcsolatban használunk fel.

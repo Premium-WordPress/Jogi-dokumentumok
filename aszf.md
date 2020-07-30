@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 10.1 | UTOLSÓ FRISSÍTÉS: 2020.02.16.**
+**VERZIÓ: 11.0 | UTOLSÓ FRISSÍTÉS: 2020.07.30.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -12,7 +12,7 @@ Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a
 ## Szolgáltató
 
 - **Álomvilág Kft.**
-- **Székhely:** 7630 Pécs, Kiskőszeg utca 7.
+- **Székhely:** 7761 Kozármisleny, Pinty utca 12/A
 - **Adószám:** 13195869-2-02
 - **Cégjegyzékszám:** 14-09-305731 – Bejegyezve a Somogy Megyei Bíróság mint Cégbíróság által
 

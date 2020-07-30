@@ -22,6 +22,10 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**11.0**
+
+- Székhely módosítása.
+
 **10.1**
 
 - PDF fájl konvertálás elmaradásának a pótlása.

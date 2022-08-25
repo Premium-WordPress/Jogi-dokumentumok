@@ -22,6 +22,15 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**12.0**
+
+- A szolgáltatások (Prémium WordPress honlapszolgáltatás és Professzionális WordPress honlapkezelés) specializálása.
+- Szinkronizálás az egyéni vállalkozáshoz létrehozott ÁSzF tartalmával.
+- Díjbekérőkre vonatkozó utalások törlése.
+- Forgalom számolás törlése.
+- Fizetési módok átírása, mivel csak átutalásos számla van már.
+- A Szolgáltatás díjköteles időszakának a kezdete lett módosítva.
+
 **11.0**
 
 - Székhely módosítása.

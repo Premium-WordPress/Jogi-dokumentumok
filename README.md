@@ -28,6 +28,14 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+### 14.0
+
+**Kiadás dátuma: 2024-12-17**
+
+VKSZ
+
+- A Vállalkozási Keretszerződés nem módosított, 2.0 verziójának a hozzáadása ehhez a repo-hoz.
+
 ### 13.2
 
 **Kiadás dátuma: 2024-12-17**

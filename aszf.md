@@ -1,32 +1,63 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 12.0 | UTOLSÓ FRISSÍTÉS: 2022.08.25.**
+**VERZIÓ: 13.0 | UTOLSÓ FRISSÍTÉS: 2024.12.16.**
 
-A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
-
-Előfizető a Megrendelés leadásával elismeri, hogy az itt leírt Általános Szerződési Feltételeket elolvasta, megértette és annak minden pontját elfogadja és betartja.
-
-Előfizető a Megrendelés leadásával elismeri, hogy betöltötte 18. életkorát.
+Az Általános Szerződési Feltételek egyes pontjai vagy azon belül bizonyos részek lehet, hogy csak bizonyos szolgáltatásokhoz kapcsolódnak. Ilyen esetben azok külön fel vannak tüntetve. Amennyiben nincs külön feltüntetve a vonatkozó szolgáltatás, úgy minden szolgáltatásra érvényesnek kell tekinteni adott pontot.
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Kaposvári Városi Bíróság illetékes.
 
-## Szolgáltató
+## 1.) Szerződő felek
+
+### 1.1.) Szolgáltató
 
 - **Álomvilág Kft.**
 - **Székhely:** 7761 Kozármisleny, Pinty utca 12/A
 - **Adószám:** 13195869-2-02
 - **Cégjegyzékszám:** 14-09-305731 – Bejegyezve a Somogy Megyei Bíróság mint Cégbíróság által
-
-## Kapcsolattartó
-
-- **Ambrus Péter** – teljeskörű ügyintézés
+- **Képviselő:** Ambrus Péter – teljeskörű ügyintézés
 - **Telefon:** +36 70 209 3432
 - **Email:** ugyfelszolgalat@premiumwp.hu
 
-## Szolgáltatások
+### 1.2.) Előfizető vagy Megrendelő
 
-A Szolgáltató által kínált szolgáltatások és azok leírásai. Az Általános Szerződési Feltételek egyes pontjai vagy azon belül bizonyos részek lehet, hogy csak bizonyos szolgáltatásokhoz kapcsolódnak. Ilyen esetben azok külön fel vannak tüntetve. Amennyiben nincs külön feltüntetve a vonatkozó szolgáltatás, úgy minden szolgáltatásra érvényesnek kell tekinteni adott pontot.
+A Megrendelés leadásánál megadott természetes és/vagy jogi személy. Céges Megrendelés esetén a kapcsolati adatoknál megadott természetes személy jogosult eljárni és szerződést kötni a Megrendelésben megadott jogi személy nevében.
 
-### Prémium WordPress Honlapszolgáltatás
+## 2.) Szerződéskötés
+
+A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
+
+Előfizető a Megrendelés leadásával elismeri, hogy az itt leírt Általános Szerződési Feltételeket elolvasta, megértette és annak minden pontját elfogadja és betartja. Céges megrendelés esetén ez a kötelezettség a Megrendelésben megadott cég minden munkatársára vonatkozik, aki érintett a Szolgáltatás bármilyen szintű közvetlen és közvetett igánybevételében.
+
+Előfizető a Megrendelés leadásával elismeri, hogy betöltötte 18. életkorát és jogosult eljárni és szerződést kötni a Megrendelésben megadott jogi személy vagy cég nevében.
+
+## 3.) Szolgáltatások
+
+A Szolgáltató által kínált szolgáltatások és azok leírásai.
+
+Az egyes szolgáltatások bővebb leírása és árazása a következő linken olvasható el: https://premiumwp.hu/arak/
+
+A különböző Csomagokban további extra Szolgáltatások is lehetnek, amiket az adott Csomag leírásánál lehet megtalálni. Ezek az extra Szolgáltatások mindig az adott Csomagra vonatkoznak.
+
+A Szolgáltatások változtatásának jogát Szolgáltató fenntartja a Szolgáltatási- és árgarancia keretein belül.
+
+### 3.1.) Professzionális WordPress honlapkezelés
+
+A Professzionális WordPress Honlapkezelés a következő alapszolgáltatásokat tartalmazza minden esetben:
+
+- Domain DNS kezelés
+- Napi biztonsági adatmentés
+- WordPress alaprendszer telepítése és alap beállítása
+- WordPress alaprendszer frissítése
+- Ingyenes és Prémium WordPress sablonok telepítése és biztosítása
+- Ingyenes és Prémium WordPress sablonok frissítése
+- Ingyenes és Prémium WordPress bővítmények telepítése és biztosítása
+- Ingyenes és Prémium WordPress bővítmények frissítése
+- Bizonyos bővítmények alap beállítása, konfigurálása
+- Biztonsági beállítások
+- Keresőoptimalizálási alap beállítások
+- Monitoring szolgáltatások beállítása
+- Technikai ügyfélszolgálat
+
+### 3.2.) Prémium WordPress honlapszolgáltatás
 
 A Prémium WordPress honlapszolgáltatás a következő alapszolgáltatásokat tartalmazza minden esetben:
 
@@ -43,64 +74,55 @@ A Prémium WordPress honlapszolgáltatás a következő alapszolgáltatásokat t
 - Biztonsági beállítások
 - Kapcsolati űrlap létrehozása
 - Keresőoptimalizálási alap beállítások
+- Monitoring szolgáltatások beállítása
 - Demó tartalom feltöltése
 - Demó menüszerkezet kialakítása
 - Technikai ügyfélszolgálat
 
-### Professzionális WordPress Honlapkezelés
+## 4.) Használat és felhasználási jog
 
-A Professzionális WordPress Honlapkezelés a következő alapszolgáltatásokat tartalmazza minden esetben:
-
-- Domain DNS kezelés
-- WordPress alaprendszer telepítése és alap beállítása
-- WordPress alaprendszer frissítése
-- Ingyenes és Prémium WordPress sablonok telepítése és biztosítása
-- Ingyenes és Prémium WordPress sablonok frissítése
-- Ingyenes és Prémium WordPress bővítmények telepítése és biztosítása
-- Ingyenes és Prémium WordPress bővítmények frissítése
-- Bizonyos bővítmények alap beállítása, konfigurálása
-- Biztonsági beállítások
-- Keresőoptimalizálási alap beállítások
-- Monitoring szolgáltatások beállítása
-- Technikai ügyfélszolgálat
-
-Az egyes szolgáltatások bővebb leírása és árazása a következő linken olvasható el: https://premiumwp.hu/arak/
-
-A különböző Csomagokban további extra Szolgáltatások is lehetnek, amiket az adott Csomag leírásánál lehet megtalálni. Ezek az extra Szolgáltatások mindig az adott Csomagra vonatkoznak.
-
-A Szolgáltatások változtatásának jogát Szolgáltató fenntartja a Szolgáltatási- és árgarancia keretein belül.
-
-## Használat és felhasználási jog
-
-A Szolgáltatáshoz kapcsolódó minden szoftver használati jog tulajdonosa a Szolgáltató. Előfizető a Szolgáltatás bérlésével a kifizetett időtartamra teljeskörű használati jogot kap minden szoftverre, amely része a Szolgáltatásnak.
-
-Előfizető minden honlap installációhoz Adminisztrátor szerepköri jogosultságot kap. Az Adminisztrátor szerepkörhöz tartozó alap jogosultságok listáját a WordPress hivatalos leírásában lehet megtalálni: https://codex.wordpress.org/Roles_and_Capabilities#Administrator
+Előfizető minden installációhoz Adminisztrátor szerepköri jogosultságot kap. Az Adminisztrátor szerepkörhöz tartozó alap jogosultságok listáját a WordPress hivatalos leírásában lehet megtalálni: https://codex.wordpress.org/Roles_and_Capabilities#Administrator
 
 A honlapon az Előfizető által feltöltött és/vagy közzétett tartalomra Szolgáltató nem tart igényt és nem vállal felelősséget. Előfizető által feltöltött minden tartalom jogosultja az Előfizető, azokon Szolgáltató semmilyen jogot nem szerez.
 
-### Kiegészítés a Prémium WordPress honlapszolgáltatáshoz
+### 4.1.) Kiegészítés a Professzionális WordPress honlapkezeléshez
+
+Szolgáltató ezen szolgáltatás keretében nem szerez semmilyen tulajdonjogot az installációk felett és azon telepített szoftverek felett.
+
+Bizonyos prémium vagy fizetős szoftverek esetén a szoftver teljeskörű használatához vagy frissítéséhez kapcsolódó licensz kulcsok, amennyiben azt Szolgáltató biztosította, azok csak a szolgáltatás időtartamára vonatkoznak. Tehát a szolgáltatás felmondása esetén ezek az aktiváló kulcsok törlésre kerülnek.
+
+### 4.2.) Kiegészítés a Prémium WordPress honlapszolgáltatáshoz
+
+Szolgáltató csak a meghatározott kiterjesztésű és méretű fájlok feltöltését engedélyezi.
+
+A Szolgáltatáshoz kapcsolódó minden szoftver tulajdonosa a Szolgáltató. Előfizető a Szolgáltatás bérlésével a kifizetett időtartamra teljeskörű használati jogot kap minden szoftverre, amely része a Szolgáltatásnak.
 
 Előfizető a honlaphoz tartozó adminisztrációs felülethez kap hozzáférést, a szerverhez és adatbázishoz nincs semmilyen jogosultságú hozzáférése.
 
 Előfizető bármikor jogosult a tartalmak exportálására, amit a honlap admin felületén tud elvégezni a WordPress alaprendszer által biztosított exportálási funkció segítségével.
 
-Előfizető az általa bérelt honlapok és/vagy installációk továbbértékesítésére harmadik félnek csak az Agency, azaz az ügynökségi csomag keretén belül jogosult. Minden más esetben az előfizetőnek és a honlap üzemeltetőjének, domain tulajdonosának meg kell egyeznie. Ez alól kivételt képeznek olyan cégek, melyeknél egy személy több cégben is rendelkezik tulajdonosi joggal vagy magánszemélyként is kezel honlapot és/vagy installációt.
+Előfizető az általa bérelt honlapok és/vagy installációk továbbértékesítésére harmadik fél számára nem jogosult. Az előfizetőnek és a honlap üzemeltetőjének, domain tulajdonosának meg kell egyeznie. Ez alól kivételt képeznek olyan cégek, melyeknél egy személy több cégben is rendelkezik tulajdonosi joggal vagy magánszemélyként is kezel honlapot és/vagy installációt.
 
-## Fair használat (Csak a Prémium WordPress honlapszolgáltatáshoz)
+## 5.) Fair használat (Csak a Prémium WordPress honlapszolgáltatáshoz)
 
-Szolgáltató egyes csomagokhoz korlátlan tárhely használatot engedélyez a "fair használat" elve mellett. A "fair használat" előfeltételezi, hogy Előfizető csak a weboldalához feltétlen szükséges méretű és mennyiségű média fájlokat tölt fel a tárhelyre. Szolgáltató csak a meghatározott kiterjesztésű és méretű fájlok feltöltését engedélyezi.
+Szolgáltató egyes csomagokhoz korlátlan tárhelyet, adatbázist és adatforgalmat engedélyez a "fair használat" elve mellett. A "fair használat" a következőket előfeltételezi:
+
+- Előfizető csak a weboldalához feltétlen szükséges méretű és mennyiségű média fájlokat tölt fel a tárhelyre.
+- Előfizető a normál üzletmenethez szükséges mennyiségű tartalmat generál a weboldalon.
+- Előfizető nem csatornáz be indokolatlan mennyiségű forgalmat akár ingyenes, akár fizetős forrásokból.
+- Előfizető minden kampány esetén 1 hónappal előre tájékoztatja Szolgáltatót a várható forgalom növekedésről és annak várható időtartamáról.
 
 Szolgáltató fenntartja a jogot, hogy a "fair használatot" egyoldalúan bírálja el és korlátozza minden egyes weboldal esetén.
 
-## Domain DNS kezelés
+## 6.) Domain DNS kezelés
 
 Szolgáltató vállalja a szolgáltatáshoz kapcsolt domainek DNS kezelését, melyet az előfizetési díj tartalmaz. Előfizető az Előfizetés időtartamára átadja a domainhez tartozó DNS kezelés jogosultságát Szolgáltatónak.
 
-Szolgáltató nem tart igényt a domain tulajdonjogára, az minden esetben Előfizető birtokában marad. Szolgáltató a domain-ek DNS kezelésének átadásával, illetve a névszerverek átírásával nem szerez tulajdonjogot a domain-en, a domain tulajdonjoga a minden esetben Előfizetőé marad.
+Szolgáltató nem tart igényt a domain tulajdonjogára, az minden esetben Előfizető birtokában marad. Szolgáltató a domain-ek DNS kezelésének átadásával, illetve a névszerverek átírásával nem szerez tulajdonjogot a domain-en, a domain tulajdonjoga minden esetben Előfizetőé marad.
 
 Az Előfizetés bárminemű megszűnése esetén Előfizető köteles visszavenni a domain DNS kezelését. Szolgáltató ezután nem vállalja a domain DNS kezelését. Az ilyen jellegű munkák után Szolgáltató az aktuális óradíj alapján számláz Előfizetőnek.
 
-## Karbantartás és rendelkezésre állás (Csak a Prémium WordPress honlapszolgáltatáshoz)
+## 7.) Karbantartás és rendelkezésre állás (Csak a Prémium WordPress honlapszolgáltatáshoz)
 
 A Szolgáltató éves garantált rendelkezésre állása: 99%
 
@@ -108,7 +130,7 @@ Szolgáltató jogosult karbantartás miatt szüneteltetni a szolgáltatást. Ame
 
 Felek megállapodnak, hogy amennyiben a karbantartási idő az adott hónapban meghaladja a 6 órát, Előfizető jogosult a szerződést azonnali hatállyal felmondani. Előfizető jelen pont szerinti felmondása esetén Előfizető a felmondás napjáig esedékes, arányos szolgáltatói díjat köteles megfizetni a Szolgáltatónak. Előre fizetés esetén Szolgáltató a felmondás napjától számított 8 napon belül köteles visszafizetni az Előfizető által megfizetett, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat.
 
-## Tartalom és tevékenység korlátozása (Csak a Prémium WordPress honlapszolgáltatáshoz)
+## 8.) Tartalom és tevékenység korlátozása (Csak a Prémium WordPress honlapszolgáltatáshoz)
 
 Szolgáltató fenntartja magának a jogot, hogy a Szolgáltatást - az Előfizető előzetes értesítését követően - korlátozza, amennyiben Előfizető nem rendeltetésszerűen használja Szolgáltató által nyújtott lehetőségeket. Kiemelten ilyen eseteknek tekintjük a következőket:
 
@@ -126,35 +148,35 @@ A végleges döntés a tartalmak elbírálásával kapcsolatban csak és kizár�
 
 Szolgáltató ugyanakkor kijelenti, hogy nem képes naprakészen felügyelni Előfizető által feltöltött adatokat, valamint Előfizető elfogadja, hogy az általa feltöltött illegális adattárolásokból és az általa indított kéretlen levelek küldéséből felmerülő vitákban teljes felelősséget vállal és Szolgáltatót nem terheli felelősség a fent említett kérdésekben.
 
-## Adatforgalom korlátozása (Csak a Prémium WordPress honlapszolgáltatáshoz)
+## 9.) Adatforgalom korlátozása (Csak a Prémium WordPress honlapszolgáltatáshoz)
 
 Előfizető tudomásul veszi, hogy Szolgáltató korlátozhatja Előfizető Szolgáltatását, amennyiben Előfizetőhöz tartozó honlap(ok) adatforgalma veszélyeztetheti a szerveren tárolt többi előfizetőnek nyújtott szolgáltatás minőségét. A korlátozásról Szolgáltatónak kötelessége írásban előzetesen figyelmeztetni Előfizetőt. Abban az esetben, ha Szolgáltató és Előfizető között nem születik megállapodás, Szolgáltató minden további figyelmeztetés nélkül egyoldalúan felmondhatja a Szolgáltatást.
 
-## Közvetített szolgáltatások
+## 10.) Közvetített szolgáltatások
 
 Szolgáltató bizonyos esetekben az Előfizető részére saját nevében vesz igénybe bizonyos szolgáltatást vagy szolgáltatásokat és azt közvetített szolgáltatásként továbbszámlázza. Ezen szolgáltatásokat Szolgáltató változatlan formában, de nem feltétlen ugyanazon az áron nyújtja Előfizetőnek.
 
 Előfizető minden közvetített szolgáltatásra külön megbízást ad Szolgáltatónak vagy Szolgáltató ajánlására elfogadja az előre kiválasztott közvetített szolgáltatást. Szolgáltató kifejezetten Előfizető kérésére az ő javában jár el a harmadik fél szolgáltatásának megrendelésében, ügyintézésében.
 
-Előfizető tudomásulveszi, hogy a közvetített szolgáltatások tekintetében minden ilyen formában igénybevett szolgáltatás esetén az esetleges problémás helyzetek során, illetve a szolgáltatással kapcsolatban felmerült panaszát, kárigényét Szolgáltató - azaz a harmadik fél szolgáltatásának közvetítője - felé nem érvényesíti, nem követeli. Tehát Szolgáltató a közvetített szolgáltatások tekintetében közvetett felelősséget nem vállal Előfizető felé. Szolgáltató vállalja a teljeskörű ügyintézést és ilyen esetben Előfizető nevében és érdekképviseletében jár el a harmadik szolgáltatóval szemben. Szükség esetén Szolgáltató összekapcsolja Előfizetőt a harmadik féllel.
+Előfizető tudomásulveszi, hogy a közvetített szolgáltatások tekintetében minden ilyen formában igénybevett szolgáltatás esetén az esetleges problémás helyzetek során, illetve a szolgáltatással kapcsolatban felmerült panaszát, kárigényét Szolgáltató - azaz a harmadik fél szolgáltatásának közvetítője - felé nem érvényesíti, nem követeli. Tehát Szolgáltató a közvetített szolgáltatások tekintetében semmilyen felelősséget nem vállal Előfizető felé. Szolgáltató vállalja a teljeskörű ügyintézést és ilyen esetben Előfizető nevében és érdekképviseletében jár el a harmadik szolgáltatóval szemben. Szükség esetén Szolgáltató összekapcsolja Előfizetőt a harmadik féllel.
 
-## Számlázás
+## 11.) Számlázás
 
 Szolgáltató a számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki. A megrendelés leadásánál Előfizető köteles megadni a számlázási email címet.
 
-## Fizetési módok
+## 12.) Fizetési módok
 
 Előfizető a számlákat banki átutalással vagy személyesen, banki befizetéssel tudja teljesíteni a számlán feltüntetett bankszámlaszámra.
 
-## Fizetési feltételek
+## 13.) Fizetési feltételek
 
 A Megrendelés leadásával Előfizető végérvényesen elfogadja az Általános Szerződési Feltételeket.
 
 A Megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
-A Szolgáltatás díja egy ismétlődő (éves vagy havi) díj, amely a Szolgáltatás kezdetének a napjától kerül felszámolásra. A Szolgáltatás ismétlődő (éves vagy havi) díja a Szolgáltatáshoz kapcsolódó szoftverek használati jogát és a honlaphoz kapcsolódó tárhely és egyéb webes szolgáltatásokat tartalmazza. A domain regisztráció és fenntartás NEM része a Szolgáltatásnak, ezért a domain regisztrációjának, illetve átregisztrációjának tényleges dátumától független.
+A Szolgáltatás díja egy ismétlődő (havi, negyedéves, féléves vagy éves) díj, amely a Szolgáltatás kezdetének a napjától kerül felszámolásra. A Szolgáltatás ismétlődő díja a Szolgáltatáshoz kapcsolódó szoftverek használati jogát és a honlaphoz kapcsolódó tárhely és egyéb webes szolgáltatásokat tartalmazza. A domain regisztráció és fenntartás NEM része a Szolgáltatásnak, ezért a domain regisztrációjának, illetve átregisztrációjának tényleges dátumától független.
 
-Előfizető jogosult meghatározni a Szolgáltatási díj megfizetésének gyakoriságát a Szolgáltató által előre meghatározott lehetőségein belül.
+Előfizető jogosult megválasztani a Szolgáltatási díj megfizetésének gyakoriságát a Szolgáltató által előre meghatározott lehetőségein belül.
 
 Szolgáltató az Előfizetés érvényességi idejének a lejárata előtt maximum 15 nappal számlát bocsát ki Előfizető részére a megrendelt szolgáltatásokról. Előfizető a számla összegét a számlán megjelölt fizetési határidő lejártáig köteles Szolgáltató részére megfizetni.
 
@@ -166,7 +188,7 @@ A korlátozás időtartamára Előfizetőt díjjóváírás nem illeti meg és s
 
 Amennyiben Előfizető számlatartozása meghaladja az utolsónak kiállított számla fizetési határidejét, úgy Szolgáltató fenntartja magának a jogot, hogy a szolgáltatások korlátozásán túl akár a számla kiegyenlítéséig - az Előfizető előzetes értesítését követően - felfüggessze szolgáltatásait Előfizetővel szemben.
 
-## Szolgáltatási- és árgarancia
+## 14.) Szolgáltatási- és árgarancia
 
 Szolgáltató garantálja, hogy a Megrendelés leadásának napján elérhető hivatalos árak és vállalt Szolgáltatások a Megrendelés leadásának napjától számított egy évig aktuálisak lesznek a Megrendelőnek.
 
@@ -174,7 +196,7 @@ Az alap Szolgáltatások változtatásáról és a Szolgáltatáshoz kapcsolód�
 
 A Szolgáltatáshoz kapcsolódó árváltozások minden esetben a bejelentést követő 30 napos időszak után esedékes Szolgáltatásokra vonatkoznak.
 
-## Szerződés felmondása és visszafizetés
+## 15.) Szerződés felmondása és visszafizetés
 
 Abban az esetben, ha Előfizető a szerződést felmondja, köteles az aktuális időszak díját a szerződésben foglaltak szerint egy összegben a Szolgáltató részére kifizetni. Amennyiben az aktuális időszak már kiegyenlítésre került és az Előfizető a kifizetett időtartam lejárata előtt kívánja felmondani a szerződést, Szolgáltató a fennmaradt napok után nem köteles elszámolni. A kifizetett időszak végéig Előfizető szabadon használhatja a Szolgáltatást. A kifizetett időszak lejárata után a Szolgáltatás megszűnik.
 
@@ -186,17 +208,17 @@ Amennyiben Szolgáltató a Szerződésben vállalt minőségi kritériumoknak va
 
 A minőségi kritériumok kizárólag Szolgáltató felügyelete alatt lévő szolgáltatásokra vonatkoznak.
 
-### Kiegészítés a Prémium WordPress honlapszolgáltatáshoz
+### 15.1.) Kiegészítés a Prémium WordPress honlapszolgáltatáshoz
 
 A Szolgáltatás felmondása esetén Előfizető kérheti az eddig kialakított honlap vagy installáció teljeskörű átadását, ami tartalmazza a honlaphoz vagy installációhoz tartozó fájlrendszert (WordPress alaprendszer, bővítmények, sablon, média fájlok) és adatbázist. Szolgáltató fenntartja a jogot, hogy az általa készített és/vagy a Szolgáltatáshoz speciálisan kapcsolódó bizonyos szoftverek átadását megtagadja, azzal a feltétellel, hogy ezen szoftverek hiánya nem zárhatja ki és nem korlátozhatja a honlap vagy installáció rendeltetésszerű működését és használatát. Az átadott fájlok és adatbázis a honlap vagy installáció éppen aktuális állapotát tartalmazza a legfrissebb verziókkal. A honlap vagy installáció átadása egyszeri díjhoz kötött szolgáltatás, amit minden esetben Szolgáltató határoz meg és publikál a Prémium WordPress honlapszolgáltatáshoz tartozó hivatalos weboldalán. Ezt a publikus árat Szolgáltató és Előfizető közös megállapodással felülbírálhatja és egyedileg meghatározhatja. A honlap vagy installáció átadásának a díját Előfizetőnek minden esetben előre kell kifizetnie.
 
-## Védjegyek és szerzői jogok (Csak a Prémium WordPress honlapszolgáltatáshoz)
+## 16.) Védjegyek és szerzői jogok (Csak a Prémium WordPress honlapszolgáltatáshoz)
 
 Előfizető garantálja, hogy megvan minden joga az oldalán használt bármely védjegy vagy tartalom használatához.
 
 Előfizető garantálja, hogy a közzétett tartalom nem sérti harmadik fél szerzői jogát vagy szabadalmát.
 
-## A szerződés megváltoztatása és az erre vonatkozó jogi hatáskör
+## 17.) A szerződés megváltoztatása és az erre vonatkozó jogi hatáskör
 
 Az itt közzétett szerződési feltételek változtatási jogát fenntartjuk. A megváltoztatott Általános Szerződési Feltételeket Előfizető teljeskörűen elfogadja a Szolgáltatás további használatával.
 
@@ -206,6 +228,6 @@ Az Általános Szerződési Feltételek változásai új megrendelés esetén az
 
 Előfizető jogosult a Szolgáltató értesítését követő 15 napon belül a Szolgáltatást a változtatás bevezetésének napjára felmondani. Előfizető jelen pont szerinti felmondása esetén Előfizető a felmondás napjáig esedékes, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat köteles megfizetni a Szolgáltatónak. Előre fizetés esetén Szolgáltató a felmondás napjától számított 8 napon belül köteles visszafizetni az Előfizető által megfizetett, arányosan kiszámított (napi egyég), hátralévő szolgáltatási díjat.
 
-## Adatkezelés és adatbiztonság
+## 18.) Adatkezelés és adatbiztonság
 
-Szolgáltató a tudomására jutott adatokat, információkat bizalmasan kezeli, s azokat – a kifejezett jogszabályi kötelezés esetét kivéve – harmadik személynek nem adja ki. Minden információt, melyet Előfizető ad meg, a Szolgáltatással kapcsolatban használunk fel.
+Szolgáltató a tudomására jutott adatokat, információkat bizalmasan kezeli, azokat – a kifejezett jogszabályi kötelezés esetét kivéve – harmadik személynek nem adja ki. Minden információt, melyet Előfizető ad meg, a Szolgáltatással kapcsolatban használunk fel.

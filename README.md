@@ -28,6 +28,14 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+### 13.1
+
+**Kiadás dátuma: 2024-12-17**
+
+EGYÉB
+
+- Fájlnevek módosítása. A premiumwp előtag lett hozzáadva minden dokumentum fájlhoz.
+
 ### 13.0
 
 **Kiadás dátuma: 2024-12-16**

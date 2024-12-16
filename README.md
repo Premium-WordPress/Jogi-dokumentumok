@@ -10,7 +10,7 @@ Itt találhatóak a mindenkor aktuális jogi dokumentumok és azok előző verzi
 A verziószám két részből áll:
 
 1. Az első szám határozza meg a főverziót. Minden olyan módosítás, ami a meglévő feltételeket, adatokat, meghatározásokat módosítja, egy új főverziót kap.
-2. A második szám határozza meg az adott főverzió javításait. Minden stilisztikai, elrendezésbeli, helyesírás és egyéb javítás ide tartozik, ami nem módosít a szerződés jelentésén, értelmezésén és a feltételek meghatározásán, érvényességén. Új főverzió esetén ez a szám nullázódik, tehát mindig az adott főverzióra vonatkozik.
+2. A második szám határozza meg az adott főverzió javításait. Minden stilisztikai, elrendezésbeli, helyesírás és egyéb javítás ide tartozik, ami nem módosít a dokumentumok jelentésén, értelmezésén és a feltételek meghatározásán, érvényességén. Új főverzió esetén ez a szám nullázódik, tehát mindig az adott főverzióra vonatkozik.
 
 ## Utolsó frissítés
 
@@ -27,6 +27,14 @@ A Markdown és Portable Document Format konvertálásához a következő online 
 https://www.markdowntopdf.com/
 
 ## Változtatások:
+
+### 13.2
+
+**Kiadás dátuma: 2024-12-17**
+
+EGYÉB
+
+- A verziószám törölve lett a dokumentumból, mert már globális a verziószám, nem adott dokumentumra vonatkozik.
 
 ### 13.1
 

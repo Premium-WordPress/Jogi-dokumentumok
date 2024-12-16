@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 13.0 | UTOLSÓ FRISSÍTÉS: 2024.12.16.**
+**UTOLSÓ FRISSÍTÉS: 2024.12.16.**
 
 Az Általános Szerződési Feltételek egyes pontjai vagy azon belül bizonyos részek lehet, hogy csak bizonyos szolgáltatásokhoz kapcsolódnak. Ilyen esetben azok külön fel vannak tüntetve. Amennyiben nincs külön feltüntetve a vonatkozó szolgáltatás, úgy minden szolgáltatásra érvényesnek kell tekinteni adott pontot.
 

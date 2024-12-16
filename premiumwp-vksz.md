@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2023.04.07.**
+**UTOLSÓ FRISSÍTÉS: 2023.04.07.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 

@@ -4,6 +4,7 @@ Itt találhatóak a mindenkor aktuális jogi dokumentumok és azok előző verzi
 
 **Elérhető dokumentumok:**
 - Általános Szerződési Feltételek
+- Vállalkozási Keretszerződés
 
 ## Verziószám
 
@@ -27,6 +28,18 @@ A Markdown és Portable Document Format konvertálásához a következő online 
 https://www.markdowntopdf.com/
 
 ## Változtatások:
+
+### 14.1
+
+**Kiadás dátuma: 2024-12-17**
+
+VKSZ
+
+- A verziószám törölve lett a dokumentumból, mert már globális a verziószám, nem adott dokumentumra vonatkozik.
+
+EGYÉB
+
+- Elérhető dokumentumok kiegészítése a VKSz-szel.
 
 ### 14.0
 

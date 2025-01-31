@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**UTOLSÓ FRISSÍTÉS: 2024.12.16.**
+**UTOLSÓ FRISSÍTÉS: 2025.01.31.**
 
 Az Általános Szerződési Feltételek egyes pontjai vagy azon belül bizonyos részek lehet, hogy csak bizonyos szolgáltatásokhoz kapcsolódnak. Ilyen esetben azok külön fel vannak tüntetve. Amennyiben nincs külön feltüntetve a vonatkozó szolgáltatás, úgy minden szolgáltatásra érvényesnek kell tekinteni adott pontot.
 
@@ -188,13 +188,25 @@ A korlátozás időtartamára Előfizetőt díjjóváírás nem illeti meg és s
 
 Amennyiben Előfizető számlatartozása meghaladja az utolsónak kiállított számla fizetési határidejét, úgy Szolgáltató fenntartja magának a jogot, hogy a szolgáltatások korlátozásán túl akár a számla kiegyenlítéséig - az Előfizető előzetes értesítését követően - felfüggessze szolgáltatásait Előfizetővel szemben.
 
-## 14.) Szolgáltatási- és árgarancia
+## 14.) Szolgáltatási díjak
+
+### 14.1.) Árgarancia
 
 Szolgáltató garantálja, hogy a Megrendelés leadásának napján elérhető hivatalos árak és vállalt Szolgáltatások a Megrendelés leadásának napjától számított egy évig aktuálisak lesznek a Megrendelőnek.
 
-Az alap Szolgáltatások változtatásáról és a Szolgáltatáshoz kapcsolódó további szolgáltatások árváltoztatásáról Szolgáltató minden esetben a Szolgáltatáshoz tartozó weboldalon, a közösségi csatornákon, valamint email-ben tájékoztatja az Előfizetőket a változtatás bevezetését megelőző legalább 30 nappal.
+### 14.2.) Árváltoztatás
+
+Az alap Szolgáltatások árváltoztatásáról és a Szolgáltatáshoz kapcsolódó további szolgáltatások árváltoztatásáról Szolgáltató minden esetben a Szolgáltatáshoz tartozó weboldalon, a közösségi csatornákon, valamint email-ben tájékoztatja az Előfizetőket az árváltoztatás bevezetését megelőző legalább 30 nappal.
 
 A Szolgáltatáshoz kapcsolódó árváltozások minden esetben a bejelentést követő 30 napos időszak után esedékes Szolgáltatásokra vonatkoznak.
+
+### 14.3.) Indexálás
+
+Megrendelő elfogadja, hogy a Megrendelés leadásának időpontjában meghatározott szolgáltatási díjak minden évben a KSH által kiadott aktuális fogyasztói árindex legalább 100%-ával emelkedhetnek. Az indexálásról minden esetben Szolgáltató dönt. Az indexálás nem árváltoztatás, így arra nem vonatkozik a 14.2. pontban vállalt tájékoztatási kötelezettséghez kapcsolódó időkorlát. Szolgáltató az indexálást jogosult alkalmazni előzetes értesítés nélkül az ebben a pontban foglaltak szerint.
+
+Az első korrekció időpontja a Megrendelést követő első naptári évét követő évben a KSH által kiadott aktuális fogyasztói árindex nyilvánosságra kerülését követő hónapjának első napja feltéve, hogy eddig az időpontig az előfizetői időszakból legalább 6 hónap a Megrendelést követően eltelt. Amennyiben a Megrendelés leadása és az azt követő első indexálás napja között kevesebb, mint 6 hónap telt el, úgy az első korrekció időpontja a Megrendelés leadását követő második évben a KSH által kiadott aktuális fogyasztói árindex nyilvánosságra kerülését követő hónapjának első napja. Az első indexálást követően a további indexálás évente minden alkalommal a KSH által kiadott aktuális fogyasztói árindex nyilvánosságra kerülését követő hónapjának első napja.
+
+Felek a Szolgáltatási díjak csökkenését kizárják.
 
 ## 15.) Szerződés felmondása és visszafizetés
 

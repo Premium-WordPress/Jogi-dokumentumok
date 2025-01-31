@@ -29,6 +29,15 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+### 15.0
+
+**Kiadás dátuma: 2025-01-31**
+
+ÁSZF
+
+- A 14.) pont átnevezése, átstruktúrálása.
+- Indexálás hozzáadása a 14.) ponthoz.
+
 ### 14.1
 
 **Kiadás dátuma: 2024-12-17**
